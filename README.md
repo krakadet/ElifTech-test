@@ -4,8 +4,6 @@ To run this project need download this repository to PC.
 
 Open at WebStorm or another similar programme.
 <pre>
-npm install
-
 cd elif
 
 yarn start
