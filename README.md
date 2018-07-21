@@ -6,7 +6,7 @@ Open at WebStorm or another similar programme.
 
 In terminal write # cd elif
 
-# yarn start
+In terminal write # yarn start
 
 This App connects to the server which deploys at heroku.com.
 The server is written in Java.
