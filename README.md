@@ -3,10 +3,11 @@ Installing:
 To run this project need download this repository to PC.
 
 Open at WebStorm or another similar programme.
+<pre>
+# cd elif
 
-In terminal write # cd elif
-
-In terminal write # yarn start
+yarn start
+</pre>
 
 This App connects to the server which deploys at heroku.com.
 The server is written in Java.
